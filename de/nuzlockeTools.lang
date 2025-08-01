@@ -11,13 +11,13 @@
                     "TimeOfDeath": "Zeit des Todes",
                     "ResetAllDeaths": "Zurücksetzen aller Tode",
                     "ResetConfirmation": {
-                        "Title": "Are you sure?",
-                        "Body": "Removing all your deaths is irreversable, are you sure you wish to reset all currently tracked deaths?",
-                        "Confirm": "Yes, Reset my deaths!"
+                        "Title": "Bist du dir sicher?",
+                        "Body": "Das zurücksetzten der Tod ist nicht widerrufbar, bist du dir sicher das du die Tode zurücksetzen willst?",
+                        "Confirm": "Ja, zurücksetzen der Tode!"
                     },
                     "ResetSuccess": {
-                        "Title": "Reset successful",
-                        "Body": "Your deaths have been deleted"
+                        "Title": "Zurücksetzten Erfolgreich",
+                        "Body": "Deine Tode wurden gelöscht"
                     }
                 },
                 "ShowdownExport": {
