@@ -26,7 +26,7 @@
                 },
                 "RevealEggs": {
                     "Title": "Eier enthüllen",
-                    "Description": "Ob der Inhalt eines Eis im Teambildschirm angezeigt werden soll"
+                    "Description": "Ob der Inhalt eines Ei's im Teambildschirm angezeigt werden soll"
                 },
                 "SendToTray": {
                     "Title": "Minimieren anstatt zu schließen",
@@ -45,12 +45,12 @@
                     "Description": "Schriftart aktivieren (nur in der App), die Legasthenikern das Lesen erleichtert"
                 },
                 "EnableDarkMode": {
-                    "Title": "Aktivierung dunkler Modus",
+                    "Title": "Dunklen Modus Aktivieren",
                     "Description": "Tu deinen Augen einen Gefallen mit dem Aktivieren des dunklen Themes"
                 },
                 "Language": {
-                    "Title": "Language",
-                    "Description": "Change the language used within the Pokélink app"
+                    "Title": "Sprache",
+                    "Description": "Ändert die Sprache des Pokelinks"
                 },
                 "TwitchBot": {
                     "Title": "Twitch Bot"
