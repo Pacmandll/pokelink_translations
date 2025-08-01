@@ -3,7 +3,7 @@
     "translations": {
         "Badges": {
             "badgesTitle": "Orden",
-            "badgesAreNotAutomaticInfo": "Orden werden nicht automatisch getrackt, auf einen Orden zu klicken 'aktiviert' diesen in der Badges Web Source",
+            "badgesAreNotAutomaticInfo": "Orden werden nicht automatisch getrackt, wähle einen Orden aus um diesen in der Websource zu aktivieren.",
             "noBadgesAvailable": "Es gibt keine Orden für dieses Spiel."
         }
     }
